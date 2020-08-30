@@ -22,5 +22,5 @@ You need to run each cell for code execution. Follow the instructions in the not
 * MLP (Multi-layered Perceptron)
 * Deep Neural Network
 * Logistic Regression
-* K-Means Classifier
+* KNN Classifier
 * Decision Tree Classifier
